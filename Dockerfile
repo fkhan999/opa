@@ -1,4 +1,4 @@
-FROM openpolicyagent/opa:1.21.0-dev-static
+FROM openpolicyagent/opa:1.22.0-dev-static
 
 # Add your OPA policies
 COPY policy/ /policy/
